@@ -8,7 +8,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -39,6 +39,9 @@
     "pug": "^2.0.0-rc.2"
   },
   "blah": {
-    "description": "Visit [pugjs.org](https://pugjs.org/api/getting-started.html) to learn more about Pug."
+    "description": "Visit [pugjs.org](https://pugjs.org/api/getting-started.html) to learn more about Pug.",
+    "installation": [
+      "After installing the module, make sure you add `bloggify-pug-renderer` in the `plugins` list."
+    ]
   }
 }

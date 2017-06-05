@@ -14,24 +14,7 @@ $ npm i --save bloggify-pug-renderer
 ```
 
 
-## :clipboard: Example
-
-
-
-```js
-const bloggifyEjsRenderer = require("bloggify-pug-renderer");
-
-console.log(bloggifyEjsRenderer());
-```
-
-## :question: Get Help
-
-There are few ways to get help:
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
+After installing the module, make sure you add `bloggify-pug-renderer` in the `plugins` list.
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
