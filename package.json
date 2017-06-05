@@ -13,29 +13,29 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-pug-renderer.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-pug-renderer.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-pug-renderer/issues"
+    "url": "https://github.com/Bloggify/bloggify-pug-renderer/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-pug-renderer#readme",
+  "homepage": "https://github.com/Bloggify/bloggify-pug-renderer#readme",
   "dependencies": {
     "noop6": "^1.0.2",
-    "pug": "^2.0.0-beta6"
+    "pug": "^2.0.0-rc.2"
   }
 }
