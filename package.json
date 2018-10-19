@@ -24,7 +24,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json"
   ],
   "repository": {
     "type": "git",
